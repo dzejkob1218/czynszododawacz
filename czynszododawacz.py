@@ -10,6 +10,8 @@ SUPPORTED = ['olx', 'otodom']
 ACTIONS = ['open', 'refresh', 'link', 'help']
 conf = {}
 
+# TODO: Research a better way to handle user input
+# TODO: Add function documentation
 
 def main():
     # load_settings
